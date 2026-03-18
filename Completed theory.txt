@@ -1,0 +1,11 @@
+DL contents covered:
+Perceptron
+Forward and backward propogation
+Optimizers(gradient descent)
+Activation function(sigmoid)
+Loss function(mean squared error)
+ 
+Math topics related to back propogation
+1. Weight updation formula
+2. Chain rule of differentiation
+3. ⁠Vanishing Gradient Problem
